@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://idek2871-debug.github.io/spellsbymystic/sitemap.xml
